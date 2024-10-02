@@ -4,19 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Oregon University 
+I am a prospective PhD student specializing in machine learning and deep learning, with a focus on healthcare applications. I completed my B.Sc. degree in Computer Science & Engineering from Rajshahi University of Engineering & Technology(RUET), Bangladesh. My research includes disease detection (breast cancer, COVID-19) and DNA post-translational modifications. I'm passionate about using AI to drive innovation in medical diagnostics.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+
+- **Machine Learning:** Disease Detection, incremental learning, transfer learning
+- **Computer Vision:** Medical Imaging, Image processing
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2024]** Our paper about Student Dropout Risk is accepted to ICICT 2024.
+- **[May. 2024]** Present paper on Covid_19 detection in ICEEICT'24
+- **[Feb. 2024]** Learned Driving.
+- **[Dec. 2023]** Our two papers about Breast Cancer Detection and Post Translational Modification are accepted to ICCIT 2023 
+- **[Oct. 2022]** Graduated from Rajshahi University of Engineering & Technology(RUET)
 
 {% include_relative _includes/publications.md %}
 
