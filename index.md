@@ -2,18 +2,22 @@
 layout: homepage
 ---
 
-<h1 id="about-me"></h1>
+## About Me
 
-<h2 style="margin: 80px 0px 10px;"></h2>
+I am a Ph.D. student at ...
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/).
+## Research Interests
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+- **Computer Vision:** image recognition, image generation, video captioning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-Previously, I completed my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my B.S. in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins University](https://www.jhu.edu), [University of Oxford](https://www.ox.ac.uk/), and [National University of Singapore](https://www.comp.nus.edu.sg/). My biography is [here](./biography/).
+## News
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email. You may see details [here](./openings/).</strong>
+- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-{% include_relative _includes/news.md %}
+{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/contact.md %}
+{% include_relative _includes/services.md %}
