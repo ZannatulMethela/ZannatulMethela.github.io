@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a prospective PhD student specializing in machine learning and deep learning, with a focus on healthcare applications. I completed my B.Sc. degree in Computer Science & Engineering from Rajshahi University of Engineering & Technology(RUET), Bangladesh. My research includes disease detection (breast cancer, COVID-19) and DNA post-translational modifications. I'm passionate about using AI to drive innovation in medical diagnostics.
+I am a prospective PhD student specializing in machine learning and deep learning, with a prior experience in healthcare applications. I completed my B.Sc. degree in Computer Science & Engineering from Rajshahi University of Engineering & Technology(RUET), Bangladesh. My research includes disease detection (breast cancer, COVID-19) and DNA post-translational modifications. I'm passionate about using AI to drive innovation.
 
 ## Research Interests
 
