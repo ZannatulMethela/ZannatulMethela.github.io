@@ -84,7 +84,7 @@
           <abbr class="badge">ICEEICT 2024</abbr>
         </div>
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://ieeexplore.ieee.org/document/10534572">Deep Learning-Based Breast Cancer Detection with VGG-16 and ResNet-50</a></div>
+          <div class="title"><a href="https://ieeexplore.ieee.org/document/10534572">Deep Transfer Learning Based Approaches for Classification of Chest CT Scans: Normal, COVID-19, and Pneumonia</a></div>
           <div class="author">Morseda Siddiqua, <strong>Zannatul Ferdousee</strong></div>
           <div class="periodical"><em>IEEE 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), 2024</em></div>
           <div class="links">
