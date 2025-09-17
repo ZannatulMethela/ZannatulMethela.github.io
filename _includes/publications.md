@@ -63,7 +63,7 @@
       <abbr class="badge">ICICT 2024</abbr>
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="#">Integrating Feature Selection and Extraction with Tuned Multilayer Perceptrons for Predicting Student Dropout Risk in Higher Education</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10839727">Integrating Feature Selection and Extraction with Tuned Multilayer Perceptrons for Predicting Student Dropout Risk in Higher Education</a></div>
       <div class="author"><strong>Zannatul Ferdousee</strong>, Md Rakibul Haque</div>
       <div class="periodical"><em>IEEE 2nd International Conference on Information and Communication Technology (ICICT), 2024 <strong>(Accepted)</strong></em></div>
       <div class="links">
