@@ -1,21 +1,35 @@
 ---
 layout: homepage
 ---
-
 ## About Me
 
-I am currently pursuing my M.Sc. in Computer Science at the University of Minnesota Duluth, where I also serve as a Teaching Assistant in the Department of Mathematics.Under the guidance of Dr. Arshia Khan, who leads research in robotics and sensing technologies for human-centered care, I am beginning my graduate studies with a strong interest in applying machine learning and deep learning to healthcare challenges.
+---
 
-I earned my B.Sc. in Computer Science & Engineering from Rajshahi University of Engineering & Technology (RUET), Bangladesh. My research experience spans disease detection (breast cancer, COVID-19) and DNA post-translational modifications.
+
+I am an M.S. student in Computer Science at the **University of Minnesota Duluth (UMD)**, working with **Dr. Arshia Khan** in the Dementia & Elderly Care Robotics and Sensing (DECRS) Lab. My current research focuses on **human-centered AI, healthcare robotics, haptics, and multimodal sensing**, with an interest in understanding how intelligent systems can support people in healthcare and learning environments.
+
+My current work involves the **Pepper humanoid robot** and physiological sensing technologies such as **EEG and EDA** to study human interaction, engagement, and acceptance of AI-assisted systems. I am particularly interested in **human-centered intelligent systems** and in understanding how **robotics, haptics, and physiological sensing** can be used to study human interaction, engagement, and acceptance.
+
+I earned my B.Sc. in Computer Science & Engineering from **Rajshahi University of Engineering & Technology (RUET), Bangladesh**. My previous research includes machine learning and deep learning applications in medical imaging, bioinformatics, and educational data mining.
 
 ## Research Interests
 
+* **Human-Centered AI:** Human-AI Interaction, AI-Assisted Learning
+* **Healthcare Robotics:** Human-Robot Interaction, Socially Assistive Robotics, Haptics
+* **Multimodal Sensing:** EEG, EDA, Physiological and Behavioral Signals
+* **Machine Learning & Deep Learning:** Healthcare Applications, Computer Vision, Natural Language Processing
 
-- **Machine Learning:** Disease Detection, incremental learning, transfer learning
-- **Computer Vision:** Medical Imaging, Image processing
+
 
 ## News
 
+- **[Sept. 2026]** *Haptics in Robotics: A Systematic Literature Review* just published by **SAGE Publications**.
+- **[Aug. 2026]** Joined the Department of Computer Science at UMD as a Graduate Teaching Assistant.
+- **[Jul. 2026]** First-ever **camping** trip—Fourth of July weekend! 🏕️✨
+- **[Summer 2026]** Conducted a Human-Robot Interaction study with older adults using the Pepper humanoid robot at **Duluth Heights Lodge Senior Living.**
+- **[Summer 2026]** Learned to make (almost) every kind of coffee. ☕
+- **[Mar. 2026]** Presented our research virtually at the 19th International Conference on Health Informatics (HEALTHINF 2025), Marbella, Spain.
+- **[Aug. 2025]** Joined the Department of Mathematics & Statistics at UMD as a Graduate Teaching Assistant.
 - **[Aug 2025]** Moved to United States and started the MS journey
 - **[Sept. 2024]** Our paper about Student Dropout Risk is accepted to ICICT 2024.
 - **[May. 2024]** Presented paper on Covid_19 detection in ICEEICT'24
