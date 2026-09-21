@@ -6,9 +6,9 @@ layout: homepage
 ---
 
 
-I am an M.S. student in Computer Science at the **University of Minnesota Duluth (UMD)**, working with **Dr. Arshia Khan** in the Dementia & Elderly Care Robotics and Sensing (DECRS) Lab. My current research focuses on **human-centered AI, healthcare robotics, haptics, and multimodal sensing**, with an interest in understanding how intelligent systems can support people in healthcare and learning environments.
+I am an M.S. student in Computer Science at the University of Minnesota Duluth, working with Dr. Arshia Khan in the **DECRS Lab**. My work focuses on intelligent robotic systems for **vulnerable populations**, particularly in senior care settings. I work directly with older adults to explore how social robots can support meaningful, comfortable, and engaging experiences.
 
-My current work involves the **Pepper humanoid robot** and physiological sensing technologies such as **EEG and EDA** to study human interaction, engagement, and acceptance of AI-assisted systems. I am particularly interested in **human-centered intelligent systems** and in understanding how **robotics, haptics, and physiological sensing** can be used to study human interaction, engagement, and acceptance.
+My master’s thesis explores haptics in human-robot interaction, examining how the introduction of physical touch can influence people’s perceptions and responses during interactions with **social robots**. Through touch-based activities with humanoid robots, I aim to better understand the role of haptic communication in shaping acceptance and the overall interaction experience.
 
 I earned my B.Sc. in Computer Science & Engineering from **Rajshahi University of Engineering & Technology (RUET), Bangladesh**. My previous research includes machine learning and deep learning applications in medical imaging, bioinformatics, and educational data mining.
 
